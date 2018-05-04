@@ -1,1 +1,5 @@
 test: FFAR
+qiwi-score-client:
+  enabled: true
+  productionMode: true
+
